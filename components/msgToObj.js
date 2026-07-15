@@ -2,7 +2,7 @@ import timeNotation from './timeNotation.js'
 import getTimestamp from './getTimestamp.js';
 
 
-// 2020-08-28 03:37PM, Yong Hwa : 하서영! 알로화!!! 반가워ㅠㅠ!! 잘지냈지?? 버블로 잘 지내보자!🤙🏾
+// 2020-08-28 03:37PM, Yong Hwa : @@@! 알로화!!! 반가워ㅠㅠ!! 잘지냈지?? 버블로 잘 지내보자!🤙🏾
 const msgToObj = (msgStr) => {
     let temp1 = msgStr.split(' : ');
     let temp2 = temp1[0].split(', ');
